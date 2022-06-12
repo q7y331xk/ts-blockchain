@@ -1,3 +1,4 @@
+"use strict";
 const hello = () => {
-    return "hi";
+    return "Hello World!";
 };
